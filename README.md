@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android, Kotlin and Java**
 
-- 📫 How to reach me **aditikumari9663@gmail.com**
+- 📫 How to reach me **aditik8688279@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
