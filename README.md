@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi6895&label=Profile%20views&color=0e75b6&style=flat" alt="aditi6895" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aditi6895/Aditi6895](https://github.com/Aditi6895/Aditi6895)
+- 👨‍💻 All of my projects are available at [https://github.com/Aditi6895]
 
 - 💬 Ask me about **Android, Kotlin and Java**
 
