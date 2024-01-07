@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Android, Kotlin and Java**
 
-- 📫 How to reach me **aditik8688279@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditi60277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditi60277" height="30" width="40" /></a>
